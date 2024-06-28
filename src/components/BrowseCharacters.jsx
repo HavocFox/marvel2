@@ -6,3 +6,5 @@ const BrowseCharacters = () => {
 };
 
 export default BrowseCharacters;
+
+//weird implement
